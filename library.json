@@ -1,0 +1,20 @@
+{
+    "name": "simple_serial_protocol",
+    "version": "1.0.0",
+    "description": "Simple Serial Protocol Library",
+    "keywords": "serial, protocol, communication",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ramsesgarciad/simple_serial_protocol.git"
+    },
+    "authors": [
+        {
+            "name": "Ramses Garcia Dilone",
+            "email": "ramses.garcia.d@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
